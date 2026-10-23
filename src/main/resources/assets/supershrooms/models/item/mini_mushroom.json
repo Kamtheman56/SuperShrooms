@@ -1,0 +1,7 @@
+{
+"parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "supershrooms:item/mini_mushroom"
+  }
+
+}
